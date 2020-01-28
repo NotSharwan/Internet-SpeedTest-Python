@@ -30,5 +30,7 @@ cd speedtest-cli
 
 python setup.py install.
 
-
+------------------------------------
 Run the Python Script 'SpeedTest.py'
+================
+------------------------------------
