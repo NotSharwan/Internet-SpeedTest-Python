@@ -34,3 +34,4 @@ python setup.py install.
 Run the Python Script 'SpeedTest.py'
 ================
 ------------------------------------
+[![Run on Repl.it](https://repl.it/badge/github/NotSharwan/Internet-SpeedTest-Python)](https://repl.it/github/NotSharwan/Internet-SpeedTest-Python)
